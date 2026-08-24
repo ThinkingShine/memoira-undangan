@@ -122,7 +122,7 @@ export function EventDetails() {
           time="15.30 WIB — selesai"
           venue="Rumah Mempelai Perempuan"
           address="Perumahan Mangunjaya 1, Tambun, Bekasi, Jawa Barat"
-          mapsUrl="https://maps.app.goo.gl/191kRJtx85556i5YMvv9"
+          mapsUrl="https://maps.app.goo.gl/191kRJtx86i5YMvv9"        
         />
         <EventCard
           heading="Ngunduh Mantu"
